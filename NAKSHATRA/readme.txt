@@ -1,0 +1,1 @@
+I generated a Gujlish-English parallel corpus in JSON format using GPT, ensuring that each entry included conversational pairs across diverse topics. After generating the dataset, I wrote Python code by myself to load the JSON data, convert it into a structured tabular format using pandas, and then export it into a CSV file for easier access and compatibility with other tools.
