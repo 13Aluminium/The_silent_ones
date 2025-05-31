@@ -1,0 +1,1 @@
+To generate the Gujlish-English conversational dataset, I took the help of GPT. The dataset consists of 5000 conversational samples across 13 diverse topics like weekend plans, ordering food, talking about cricket, and more. Each entry includes an English sentence and its corresponding Gujlish translation.
