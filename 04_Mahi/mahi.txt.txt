@@ -1,0 +1,1 @@
+for generating english and gujlish dataset i took the help of gpt and tried the that there is no repetition and mannually assessed the dataset. 
