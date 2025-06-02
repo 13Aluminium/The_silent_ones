@@ -1,0 +1,1 @@
+I created a Gujlish-English dataset using GPT that captured authentic youth conversations. I then organized the data into JSON and CSV formats for use in linguistic analysis and natural language processing tasks.
